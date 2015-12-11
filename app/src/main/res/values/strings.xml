@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Exemplo WS</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_idade">Idade</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="cadastro_sucesso">Cadastro realizado com sucesso!</string>
+    <string name="cadastro_erro">Erro no cadastro.</string>
 </resources>
